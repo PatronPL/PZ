@@ -1,0 +1,20 @@
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.csprojAssemblyReference.cache
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi_v0_5.Form1.resources
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.csproj.GenerateResource.cache
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\res\czołgV1.png
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\res\czołgV2.png
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\res\floor.png
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\res\swamp.png
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\res\walle.png
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\EntityFramework.dll
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\EntityFramework.xml
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi_v0_5.Properties.Resources.resources
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.csproj.CoreCompileInputs.cache
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.csproj.CopyComplete
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.exe
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\obj\Debug\Czołgi v0,5.pdb
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\Czołgi v0,5.exe.config
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\Czołgi v0,5.exe
+C:\Users\Patron\Desktop\Czołgi v0,5\Czołgi v0,5\bin\Debug\Czołgi v0,5.pdb
