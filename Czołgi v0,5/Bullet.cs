@@ -69,6 +69,7 @@ namespace Czołgi_v0_5
             explosion.Size = new Size(10, 10);
             Form1.panel1.Controls.Add(explosion);
             explosion.BringToFront();
+            explosion.visible = false;
         } 
 
         ~Bullet(){
